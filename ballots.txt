@@ -1,0 +1,4 @@
+3
+12345:Best Campus Restaurant:Campus Deli,Forbes Gyro,Five Guys,Hello Bistro,Stack'd
+23456:Best Operating System:Windows,Mac,Linux
+34567:Best Season:Spring,Summer,Winter,Autumn
